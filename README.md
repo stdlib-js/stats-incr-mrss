@@ -144,6 +144,24 @@ console.log( accumulator() );
 
 <!-- /.examples -->
 
+<!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
+
+<section class="related">
+
+* * *
+
+## See Also
+
+-   [`@stdlib/stats/incr/rss`][@stdlib/stats/incr/rss]: compute the residual sum of squares (RSS) incrementally.
+-   [`@stdlib/stats/incr/mmse`][@stdlib/stats/incr/mmse]: compute a moving mean squared error (MSE) incrementally.
+-   [`@stdlib/stats/incr/mrmse`][@stdlib/stats/incr/mrmse]: compute a moving root mean squared error (RMSE) incrementally.
+
+</section>
+
+<!-- /.related -->
+
+<!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
+
 
 <section class="main-repo" >
 
@@ -200,6 +218,16 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/stats-incr-mrss/main/LICENSE
 
 [residual-sum-of-squares]: https://en.wikipedia.org/wiki/Residual_sum_of_squares
+
+<!-- <related-links> -->
+
+[@stdlib/stats/incr/rss]: https://github.com/stdlib-js/stats-incr-rss
+
+[@stdlib/stats/incr/mmse]: https://github.com/stdlib-js/stats-incr-mmse
+
+[@stdlib/stats/incr/mrmse]: https://github.com/stdlib-js/stats-incr-mrmse
+
+<!-- </related-links> -->
 
 </section>
 
