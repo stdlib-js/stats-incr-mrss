@@ -63,7 +63,7 @@ For a window of size `W`, the [residual sum of squares][residual-sum-of-squares]
 ## Usage
 
 ```javascript
-import incrmrss from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-incr-mrss@esm/index.mjs';
+import incrmrss from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-incr-mrss@v0.2.2-esm/index.mjs';
 ```
 
 #### incrmrss( window )
@@ -133,7 +133,7 @@ r = accumulator();
 <script type="module">
 
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
-import incrmrss from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-incr-mrss@esm/index.mjs';
+import incrmrss from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-incr-mrss@v0.2.2-esm/index.mjs';
 
 var accumulator;
 var v1;
